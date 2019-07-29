@@ -1,6 +1,5 @@
 # hello-world
-Learning Git with giithubb :)
-
+I'm learning Git with Github.
 
 I'm Luiz a graphic designer and fall in love about photographs.
 In nowadays I need to improve my abilitys, so.. I'll learning a little bit about web.
